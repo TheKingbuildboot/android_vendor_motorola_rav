@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter rav,$(TARGET_DEVICE)),)
+ifneq ($(filter sofiar,$(TARGET_DEVICE)),)
 
 endif
